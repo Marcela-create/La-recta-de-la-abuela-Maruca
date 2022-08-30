@@ -1,0 +1,33 @@
+body {
+    background: #eeb0d2;
+  }
+  h1{
+    
+    color: rgb(16, 13, 197);
+    font-size: xx-large;
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  h3{
+    color: rgb(197, 13, 13);
+    font-size: small;
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  h2{
+    color: rgb(7, 117, 16);
+  }
+  img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+  h4{
+    
+    color: rgb(234, 241, 234);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+   
+ol{
+    color: rgb(133, 27, 151); 
+}
